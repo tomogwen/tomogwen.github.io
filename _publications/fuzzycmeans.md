@@ -3,7 +3,7 @@ title: "Fuzzy c-Means Clustering for Persistence Diagrams"
 collection: publications
 permalink: https://arxiv.org/abs/2006.02796
 excerpt: 'Persistence diagrams, a key tool in the field of Topological Data Analysis, concisely represent the topology of a point cloud. Most current methods to integrate persistence diagrams into machine learning either require prior knowledge of a ground-truth topology or map them into a feature vector, offering a trade-off between information loss and invoking the curse of dimensionality. In this paper we give an algorithm for Fuzzy c-Means (FCM) clustering directly on the space of persistence diagrams, enabling unsupervised learning that automatically captures the topological structure of data, with no prior knowledge or additional processing of persistence diagrams. We prove the same convergence guarantees as traditional FCM clustering: that any convergent subsequence of our algorithm tends to a local minimum or saddle point of the cost function. We end by presenting experiments that demonstrate our algorithm can successfully cluster transformed datasets from materials science where comparable Wasserstein barycentre clustering algorithms fail, whilst also running at least an order of magnitude faster. '
-date: 2020-06
+date: 2020-06-11
 venue: 'Preprint'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Thomas O. M. Davies, Jack Aspinall, Bryan Wilder, Long Tran-Thanh. &quot;Fuzzy c-Means Clustering for Persistence Diagrams&quot; <i>arXiv:2006.02796</i> (2020).'
