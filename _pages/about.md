@@ -12,4 +12,4 @@ I'm a machine learning PhD student in the [AIC group](https://www.aic.ecs.soton.
 
 Before starting my PhD, I got a Mathematics MSci at the [University of Birmingham](https://www.birmingham.ac.uk/). My masters project, [The Persistent Homology of Complexes from Finite Data Sets](https://tomogwen.github.io/files/Persistent_Homology.pdf), studied the algebraic topology underlying Topological Data Analysis.
 
-My [CV](https://tomogwen.github.io/files/CV.pdf) details my work experience, which includes developing an end-to-end data science pipeline for an [automotive start-up](http://www.fusion-innovations.com/), leading a team of developers implementing automated mathematical assessments for STEM undergraduates, and spending a summer as a cyber security intern in the public sector.
+My [CV](https://tomogwen.github.io/files/CV.pdf) details my work experience, which includes developing an end-to-end data science pipeline for an automotive start-up; leading a team of edtech developers implementing automated mathematical assessments; and spending a summer as a cyber security intern in the public sector.
