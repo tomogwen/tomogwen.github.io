@@ -75,14 +75,14 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-101603040-3"
 
 
 # Site Author
 author:
   name             : "Thomas Davies"
-  avatar           : "profile.png"
-  bio              : "Machine Learning PhD Student in the AIC group at Southampton University"
+  avatar           : "headshot.png"
+  bio              : "Machine learning PhD student at Southampton University"
   location         : "Southampton, UK"
   employer         :
   pubmed           : 

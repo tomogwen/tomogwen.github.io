@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a machine learning PhD student in the [AIC group](https://www.aic.ecs.soton.ac.uk/) at [Southampton University](https://www.southampton.ac.uk/). My research aims to combine tools from topological data analysis with techniques from machine learning to enable topology-driven deep learning. I'm interested in both the theoretical study of machine learning, with a focus on TDA-based algorithms, and applications of ML to other disciplines: in my [first paper](https://arxiv.org/abs/2006.02796) we develop a novel topological fuzzy clustering algorithm that achieves state-of-the-art classification of transformed materials science datasets.
+
+Before starting my PhD, I did a Mathematics Msci at the [University of Birmingham](https://www.birmingham.ac.uk/schools/mathematics/index.aspx). My masters project focused 
+
 
 A data-driven personal website
 ======
