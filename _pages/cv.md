@@ -54,7 +54,8 @@ Cybersecurity Intern, *July 2017 - September 2016*
 **University of Southampton** (Southampton, UK)
 
 Demonstrator, *September 2019 - Present*
-  * Demonstrating for the following courses, which includes leading tutorials, marking, and helping in labs. - Foundations of Computer Science: introductory mathematics for first year undergraduates.
+  * Demonstrating for the following courses, which includes leading tutorials, marking, and helping in labs.
+  * Foundations of Computer Science: introductory mathematics for first year undergraduates.
   * Software Security: penetration testing and software reverse engineering for masters students.
   * Software Engineering Group Project: agile development for second year undergraduates.
 
