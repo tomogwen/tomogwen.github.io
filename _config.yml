@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thomas Davies"
+title                    : "Thomas O. M. Davies"
 title_separator          : "-"
-name                     : &name "Thomas O. M. Davies"
-description              : &description "Machine Learning PhD Student<br>AIC Group, University of Southampton"
+name                     : &name "Thomas Davies"
+description              : &description "Machine Learning PhD Student in the AIC group at Southampton University"
 url                      : https://tomogwen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tomogwen/tomogwen.github.io"
