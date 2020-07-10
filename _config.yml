@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Thomas O. M. Davies"
 title_separator          : "-"
 name                     : &name "Thomas Davies"
-description              : &description "Machine Learning PhD Student in the AIC group at Southampton University"
+description              : &description "Machine Learning PhD Student"
 url                      : https://tomogwen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tomogwen/tomogwen.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Thomas Davies"
   avatar           : "profile.png"
-  bio              : "Machine Learning PhD Student"
+  bio              : "Machine Learning PhD Student in the AIC group at Southampton University"
   location         : "Southampton, UK"
   employer         :
   pubmed           : 
