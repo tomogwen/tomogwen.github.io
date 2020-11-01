@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thomas O. M. Davies"
+title                    : "Thomas Davies"
 title_separator          : "-"
 name                     : &name "Thomas Davies"
 description              : &description "Machine Learning PhD Student"
