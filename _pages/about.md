@@ -13,3 +13,7 @@ I'm a PhD student in the [AIC group](https://www.aic.ecs.soton.ac.uk/) at [South
 Before starting my PhD, I earned a Mathematics MSci from the [University of Birmingham](https://www.birmingham.ac.uk/). My masters project, [The Persistent Homology of Complexes from Point Data Sets](https://tomogwen.github.io/files/Persistent_Homology.pdf), studied the algebraic topology underpinning topological data analysis.
 
 My [CV](https://tomogwen.github.io/cv/) details my work experience, which includes developing an end-to-end data science pipeline for an automotive start-up; leading a team of edtech developers implementing automated mathematical assessments; and spending a summer as a cyber security intern in the public sector.
+
+## News
+
+* Two papers accepted to the NeurIPS 2020 TDA and Beyond workshop! 
