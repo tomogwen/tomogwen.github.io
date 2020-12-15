@@ -16,6 +16,6 @@ My [CV](https://tomogwen.github.io/cv/) details my work experience, which includ
 
 ## News
 
-* December 2020: Our spotlight presentation at the TDA and Beyond workshop is [now avaiable](https://slideslive.com/38941574/hypothesis-classes-with-a-unique-persistence-diagram-are-nonuniformly-learnable).
+* December 2020: Our spotlight presentation at the TDA and Beyond workshop is [now available](https://slideslive.com/38941574/hypothesis-classes-with-a-unique-persistence-diagram-are-nonuniformly-learnable).
 
 * October 2020: Two papers accepted to the NeurIPS 2020 TDA and Beyond workshop! 
